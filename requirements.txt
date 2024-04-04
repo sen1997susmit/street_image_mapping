@@ -1,0 +1,17 @@
+numpy
+pyyaml
+pillow
+opencv-python
+requests
+pykrige
+scikit-image
+pyproj
+scikit-learn
+geopy
+shapely
+scipy
+beautifulsoup4
+pandas
+geopandas
+tqdm
+rasterio
